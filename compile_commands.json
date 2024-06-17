@@ -1,0 +1,6 @@
+[
+{
+  "directory": "D:\\omni",
+  "arguments": ["D:\\toolkits\\msys64\\clang64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-ID:\\toolkits\\msys64\\clang64\\bin\\..\\include", "-ID:\\toolkits\\msys64\\clang64\\bin\\..\\include\\SDL2", "-o", "build\\.objs\\omni\\mingw\\x86_64\\debug\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]
